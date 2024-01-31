@@ -1,1 +1,1 @@
-# automating-Adactin Hotel-webpage-using-selenium-with-java-Framework-Junit
+# Automating-Adactin Hotel-webpage using selenium with java Framework-Junit
